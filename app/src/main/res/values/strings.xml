@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ProjectCourtCounter</string>
+    <string name="title">Rugby Game</string>
+    <string name="team_A">Team A - Brumbies</string>
+    <string name="team_B">Team B - Chiefs</string>
+    <string name="score">0</string>
+    <string name="try_button">Try</string>
+    <string name="penalty_button">Penalty Kick</string>
+    <string name="conversion_button">Conversion</string>
+    <string name="drop_button">Drop Goal</string>
+    <string name="result">Result</string>
+    <string name="reset">Reset</string>
+</resources>
